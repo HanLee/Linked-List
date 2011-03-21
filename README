@@ -1,0 +1,6 @@
+The project consists of files to create a singular linked list for integers.
+Current operations include append and print all.
+I have decided to include a pointer to the last node of the list in this case as it would be 
+more efficient than going through all the nodes to find the last node.
+
+Amend to suit your own types.
